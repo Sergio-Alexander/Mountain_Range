@@ -6,7 +6,7 @@ import uwcse.graphics.Rectangle;
 import uwcse.graphics.Triangle;
 // access the Color class
 
-
+//testing
 /**
  * <p>Create a cable car in a graphics window</p>  
  * @author Sergio Satyabrata
