@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="uwcse" level="project" />
+    <orderEntry type="library" name="uwcse1" level="project" />
   </component>
 </module>
